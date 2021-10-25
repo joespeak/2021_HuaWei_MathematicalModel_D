@@ -1,0 +1,2 @@
+# 2021_HuaWei_MathematicalModel_D
+my code for 2021_HuaWeiMathematicalModeling D_subject
